@@ -20,18 +20,12 @@ Bu bot sayesinde web sitelerinize **gerçek kullanıcı davranışı taklit edil
 ---
 
 ## Kullanım
-1. `pip install playwright customtkinter matplotlib`  
-2. `playwright install`  
-3. `python hit10_full.py` ile çalıştır  
-4. GUI üzerinden:
+GUI üzerinden:
    - **Direct Hit** → Hedef URL gir  
    - **Google Search** → Anahtar kelime + domain gir + cookie dosyası yükle  
    - **GitHub SEO** → Repository linki gir (README içinde `class="wisex"` olan linke tıklayacak)
 
 ---
 
-## Parasite SEO Örneği
-README dosyanıza şu şekilde link ekleyin:
 
-html
 <a href="https://t.me/r10wisex" class="wisex">Bizimle İletişime Geç</a>
