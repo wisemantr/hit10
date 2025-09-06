@@ -23,7 +23,7 @@ Bu bot sayesinde web sitelerinize **gerçek kullanıcı davranışı taklit edil
 GUI üzerinden:
    - **Direct Hit** → Hedef URL gir  
    - **Google Search** → Anahtar kelime + domain gir + cookie dosyası yükle  
-   - **GitHub SEO** → Repository linki gir (README içinde `class="wisex"` olan linke tıklayacak)
+   - **GitHub SEO** → Repository linki gir (README içinde `class="örnek:wisex"` olan linke tıklayacak)
 
 ---
 
