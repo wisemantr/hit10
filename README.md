@@ -33,5 +33,5 @@ Bu bot sayesinde web sitelerinize **gerçek kullanıcı davranışı taklit edil
 ## Parasite SEO Örneği
 README dosyanıza şu şekilde link ekleyin:
 
-```html
+html
 <a href="https://t.me/r10wisex" class="wisex">Bizimle İletişime Geç</a>
